@@ -1,1 +1,1 @@
-# JAVA---Graph-of-a-function-JavaFX-
+# JAVA - Graph of a function - JavaFX
